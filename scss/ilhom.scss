@@ -1,0 +1,248 @@
+.hero__sub-title {
+    font-family: Syne;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    color: #222222;
+    margin-bottom: 15px;
+}
+
+.hero__title {
+    font-family: Syne;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67.2px;
+    text-align: center;
+    color: #222222;
+    margin-bottom: 30px;
+}
+
+.hero__image {
+    width: 1340px;
+    height: 400px;
+    margin-bottom: 100px;
+}
+
+.showing__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .showing__title {
+        font-family: Syne;
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 24px;
+        text-align: center;
+        color: #222222;
+    }
+
+    .showing__box {
+        display: flex;
+        align-items: center;
+        gap: 130px;
+        margin-bottom: 30px;
+
+        .showing__btn {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            width: Fixed (143px)px;
+            height: Hug (37px)px;
+            padding: 10px 10px 10px 10px;
+            justify-content: space-between;
+            opacity: 0px;
+            background: #F8F8F8;
+            font-family: Syne;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16.8px;
+            text-align: left;
+            color: #222222;
+        }
+
+        .showing__form {
+            display: flex;
+            align-items: center;
+            gap: 90px;
+            width: Fixed (320px)px;
+            height: Hug (37px)px;
+            padding: 10px 20px 10px 20px;
+            justify-content: space-between;
+            opacity: 0px;
+            background: #F8F8F8;
+            font-family: Syne;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16.8px;
+            text-align: left;
+            color: #222222;
+        }
+    }
+}
+
+.popular__content {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    .popular__card {
+        margin-bottom: 30px;
+
+        .popular__cart {
+            width: Hug (280px)px;
+            height: Hug (406px)px;
+            padding: 12px 12px 24px 12px;
+            gap: 32px;
+            border-radius: 10px 10px 10px 10px;
+            opacity: 0px;
+            background: #22222208;
+            margin-bottom: 30px;
+
+            .popular__image {
+                max-width: 256px;
+                height: 204px;
+                gap: 10px;
+                opacity: 0px;
+                margin-bottom: 15px;
+            }
+
+            .popular__title {
+                max-width: 201px;
+                height: 58px;
+                gap: 0px;
+                opacity: 0px;
+                font-family: Syne;
+                font-size: 24px;
+                font-weight: 700;
+                line-height: 28.8px;
+                text-align: left;
+                color: #222222;
+                margin-bottom: 15px;
+            }
+
+            .popular__sub-title {
+                font-family: Syne;
+                font-size: 16px;
+                font-weight: 600;
+                line-height: 19.2px;
+                text-align: left;
+                color: #222222;
+                margin-bottom: 5px;
+            }
+
+            .popular__number {
+                font-family: Syne;
+                font-size: 24px;
+                font-weight: 700;
+                line-height: 28.8px;
+                text-align: left;
+                color: #222222;
+                margin-bottom: 5px;
+            }
+
+            .popular__btn {
+                width: Hug (95px)px;
+                height: Fixed (40px)px;
+                padding: 10px 26px 10px 26px;
+                gap: 10px;
+                border-radius: 32px 32px 32px 32px;
+                opacity: 0px;
+                background: #FD3B3B;
+                color: #FFFFFF;
+            }
+
+            .popular__btn:hover {
+                background: #FFFFFF;
+                color: #FD3B3B;
+            }
+        }
+
+        .popular__cart:hover {
+            background: #FD3B3B;
+        }
+    }
+}
+
+.number__content {
+    padding-top: 30px;
+    padding-bottom: 90px;
+
+    .number__list {
+        display: flex;
+        align-items: center;
+        gap: 60px;
+        margin-left: 350px;
+
+        .number__link {
+            font-family: Syne;
+            font-size: 20px;
+            font-weight: 600;
+            line-height: 24px;
+            text-align: left;
+            color: #222222;
+        }
+
+        .number__link:hover {
+            color: #FD3B3B;
+        }
+    }
+}
+
+.explore__content {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://s3-alpha-sig.figma.com/img/0b3f/c851/06996ea1329d00c460133e85de71d40b?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=o52T5Dr9si9I-bTQLPo5cgwsu8NEc3OpH9ir29WCE410Y-el~hIeSV5JElVpQjvIA-Oavam8u3voT-fDP-2jH8IQnRi119NkdRXDsAenHwAg8XMjGkRSWjx8ms-tS4cPlDQbHB4RJ7jmxEGRXtkOnA4hSHOjnLc50bZJx7XeaVsIyQC9GiuNqMFHPgVNK0SgbIYqEfSQyITMo~H2FZXCmfNzAiazQFqg8CSu~ZNcDhhmuBH-FBx~M5ya6nXe7yVfS3lZuaO09i7Hmo1Jny4l6Focec2H8x1Z2ySuZWiS-JsDHiqLjT11ieeTBRJF8uAt3~O2YO9nICk313gNiYUE7Q__');
+    max-width: 1340px;
+    height: 549px;
+    border-radius: 30px 30px 30px 30px;
+    justify-content: space-between;
+    opacity: 0px;
+
+    .explore__sub-title {
+        font-family: Syne;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: right;
+        color: #FFFFFF;
+        padding-top: 70px;
+        padding-right: 100px;
+    }
+
+    .explore__title {
+        width: 841px;
+        font-family: Syne;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 67.2px;
+        text-align: right;
+        color: #FFFFFF;
+        padding-top: 70px;
+        padding-left: 400px;
+    }
+
+    .explore__btn {
+        width: Hug (212px)px;
+        height: Fixed (40px)px;
+        padding: 10px 26px 10px 26px;
+        gap: 10px;
+        border-radius: 32px 32px 32px 32px;
+        opacity: 0px;
+        font-family: Syne;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 19.2px;
+        text-align: center;
+        background: #FD3B3B;
+        color: #FFFFFF;
+        margin-top: 70px;
+        margin-left: 1030px;
+    }
+
+    .explore__btn:hover {
+        background: #FFFFFF;
+        color: #FD3B3B;
+    }
+}
