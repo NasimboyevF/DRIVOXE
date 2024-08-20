@@ -8,7 +8,8 @@
         }
     ],
 
-    "liveSassCompile.settings.autoprefix": "last 2 versions"
+    "liveSassCompile.settings.autoprefix": "last 2 versions",
+    "liveServer.settings.port": 5501
     
 
 
