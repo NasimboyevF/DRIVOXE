@@ -1,0 +1,211 @@
+header
+{
+  position: absolute;
+  top: 0;
+  left: calc(50% - 670px);
+}
+.nom{
+  background-image: url(../img/javohir-background-2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1500px 1000px;
+  
+
+}
+.nom{
+  padding-top: 150px;
+}
+
+.car-photo {
+  padding-top: 50px;
+  display: grid;
+}
+
+.car-image {
+  gap: 30px;
+  display: flex;
+  padding-top: 26px;
+}
+
+.header-1 {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 67.2px;
+  padding-bottom: 20px;
+  width: 519px;
+  height: 134px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.cost {
+  width: 185px;
+  height: 58px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 57.6px;
+}
+
+.paragrav {
+  max-width: 519px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: 120px;
+  gap: 0px;
+  opacity: 0.6px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.wrapper-first {
+  gap: 47px;
+}
+
+.plus {
+  gap: 20px;
+  object-fit: contain;
+}
+.number {
+  width: 17px;
+  height: 58px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 57.6px;
+  text-align: left;
+}
+
+.btn {
+  width: Hug(143px);
+  height: Fixed (40px);
+  padding: 10px 26px 10px 26px;
+  gap: 10px;
+  border-radius: 32px;
+  border: none;
+  background: #fd3b3b;
+  color: #fff;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.btn:active {
+  border: 1px solid grey;
+}
+
+.minus {
+  gap: 32px;
+}
+
+.colors {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.box {
+  background-color: #f8f8f8;
+  width: 400px;
+  height: 90px;
+  padding: 5px;
+  gap: 12px;
+  border-radius: 10px;
+}
+
+.wrapper-second {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  gap: 38px;
+}
+
+.header-2 {
+  gap: 0px;
+  opacity: 0px;
+
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 57.6px;
+}
+
+.btn-solid {
+  width: 240px;
+  height: 279px;
+  padding: 12px 12px 20px 12px;
+  gap: 20px;
+  border-radius: 10px;
+
+  background-color: #f8f8f8;
+}
+.btn-solid:active {
+  background-color: #fd3b3b;
+  h3,
+  H5 {
+    color: #fff;
+  }
+}
+.header-3 {
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 57.6px;
+}
+.frama {
+  object-fit: contain;
+  margin:700px;
+}
+.header-4 {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 67.2px;
+  text-align: center;
+  width: 841px;
+  height: 201px;
+  gap: 0px;
+  opacity: 0px;
+  color: white;
+  margin-left: 120px;
+}
+.wrapper-fife {
+  padding-left: 154px;
+  padding-top: 50px;
+  padding-bottom: 210px;
+}
+.wrapper-fife {
+  background-image: url(../img/javohir-background-1.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1900px 1000px;
+  border-radius: 20px;
+}
+.btn-quid {
+  background-color: #fd3b3b;
+  color: white;
+  width: 212px;
+  height: 40px;
+  padding: 10px 26px 10px 26px;
+  gap: 10px;
+  border-radius: 32px;
+  opacity: 0px;
+  margin-left: 370px;
+  margin-top: 40px;
+}
+
+.header-5 {
+  width: 339px;
+  height: 67px;
+  gap: 0px;
+  border: 1px;
+  opacity: 0px;
+
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 67.2px;
+  
+}
