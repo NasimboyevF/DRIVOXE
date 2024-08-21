@@ -84,7 +84,7 @@
 
 .popular__content {
     display: flex;
-    align-items: center;
+    align-items: start;
     gap: 30px;
 
     .popular__card {
@@ -109,7 +109,7 @@
             }
 
             .popular__title {
-                max-width: 201px;
+                width: 251px;
                 height: 58px;
                 gap: 0px;
                 opacity: 0px;
@@ -161,6 +161,56 @@
 
         .popular__cart:hover {
             background: #FD3B3B;
+        }
+    }
+
+    .popular__title2 {
+        font-family: Syne;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: left;
+        color: #000000;
+        margin-left: 100px;
+        margin-bottom: 30px;
+    }
+
+    .popular__box {
+        padding-bottom: 30px;
+
+        .popular__content2 {
+            display: flex;
+            align-items: start;
+            gap: 30px;
+            margin-left: 100px;
+            margin-bottom: 20px;
+    
+            .popular__image2 {
+                width: 104px;
+                height: 83px;
+                gap: 10px;
+                border-radius: 10px 10px 10px 10px;
+                opacity: 0px;
+            }
+    
+            .popular__sub2-title {
+                font-family: Syne;
+                font-size: 16px;
+                font-weight: 700;
+                line-height: 19.2px;
+                text-align: left;
+                color: #222222;
+                margin-bottom: 5px;
+            }
+    
+            .popular__number2 {
+                font-family: Syne;
+                font-size: 16px;
+                font-weight: 700;
+                line-height: 19.2px;
+                text-align: left;
+                color: #222222;
+            }
         }
     }
 }
